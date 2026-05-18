@@ -1,4 +1,4 @@
-# bioinformatics-foundational
+# Bioinformatics-foundational
 Foundational Python and data analysis training for bioinformatics applications
 
 ## Contents
